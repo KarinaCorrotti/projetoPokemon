@@ -1,0 +1,44 @@
+
+------------------INSTALAÇÃO GIT -------------------------------
+https://www.youtube.com/watch?v=ONztz-yh4jY
+
+
+------------------INSTALAÇÕES  ----------------------------------------
+CMD ou no GIT BASH
+
+ANGULAR CLI => https://www.youtube.com/watch?v=xqWovo6Enq0
+
+NODEJS => https://www.youtube.com/watch?v=522HiDiAf0w&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&index=2
+
+NODEMON => npm install nodemon -g
+
+SEQUELIZE => https://www.youtube.com/watch?v=0q0u8syrztg&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&index=16
+
+Para facilitar as visualizações das querys do BD, no VS Code procurar em aplicativos MYSQL SYNTAX e MYSQL e instalar. 
+
+
+-----------------FRONT - POKEDEXPOKEMON -------------------------------
+GIT BASH na pasta inicial
+
+ng serve => liga o servidor
+
+++++++++CSS+++++++++
+está instalado o SASS 
+entao o codg todo esta em SASS
+
+caso queira ideias de botoes => https://freefrontend.com/css-buttons/
+
+
+-----------------BACK - POKEDEXSERVE ---------------------------------
+GIT BASH na pasta inicial
+
+nodemon app.js => liga o servidor
+
+
+-----------------BD - MYSQL -------------------------------------------
+Instalar MYSQL Modifier para nao ligar manualmente no CMD
+
+
+
+
+
